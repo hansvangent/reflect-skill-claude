@@ -157,4 +157,4 @@ PRs welcome. Open an issue first for anything bigger than a typo or a one-line c
 
 ## Credits
 
-Built by [Hans Van Gent](https://hansvangent.substack.com) for his own daily Claude Code workflow. If it saves you a session, drop a star.
+Built by [Hans van Gent](https://hansvangent.substack.com) for his own daily Claude Code workflow. If it saves you a session, drop a star.
